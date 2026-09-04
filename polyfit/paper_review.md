@@ -1,4 +1,4 @@
-# PolyFit — 요약 (이해용)
+# PolyFit 
 
 *논문: PolyFit — A Peg-in-hole Assembly Framework for Unseen Polygon Shapes via Sim-to-real Adaptation (IROS 2024) / arXiv:2312.02531 / GIST AILab*
 
